@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.dashboard-container{
+    background-color: #6d8d8c;
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    width: 90%;
+}
+.menu{
+    width: 20%;
+    background-color: #ffffff;
+    margin: 5px
+    
+}
+.principal{
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    margin: 5px
+}
